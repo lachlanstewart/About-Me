@@ -1,4 +1,4 @@
- <link href="assets/css/style.scss" rel="stylesheet"></link>
+ <link href="assets/css/style.scss" rel="stylesheet">
 
 # ABOUT ME
 
