@@ -1,9 +1,14 @@
-# Who am I? 
+# ABOUT ME
+
+<img alt="Profile Pic" align="left" width="20%" height="20%" src="images/profilepic2019-circle.png">
+
 
 ### At a glance
 - An endlessly curious 20 year old from Canada's west coast.
-- An Aeronautical & Astronautical engineering major at the University of Washington-Seattle.
+- An Aeronautical & Astronautical Engineering major at the University of Washington-Seattle.
 - A lover of travel, active living, animals, personal finance, and all things "tech".
+
+
 
 Shooting for the stars, literally. 
 
