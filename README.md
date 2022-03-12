@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Who am I? 
 
-You can use the [editor on GitHub](https://github.com/lachlanstewart/About-Me/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+At a glance
+: An endlessly curious 20 year old from Canada's west coast
+: An Aeronautical & Astronautical engineering major at the University of Washington-Seattle
+: A lover of travel, active living, animals, personal finance, and all things "tech"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
