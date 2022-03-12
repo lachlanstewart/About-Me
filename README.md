@@ -5,6 +5,8 @@
 - An Aeronautical & Astronautical engineering major at the University of Washington-Seattle.
 - A lover of travel, active living, animals, personal finance, and all things "tech".
 
+Shooting for the stars, literally. 
+
 
 ### Markdown
 
