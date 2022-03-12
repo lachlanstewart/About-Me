@@ -8,9 +8,18 @@
 ### At a glance
 - An endlessly curious 20 year old from Canada's west coast.
 - An Aeronautical & Astronautical Engineering major at the University of Washington-Seattle.
-- A lover of travel, active living, animals, personal finance, and all things "tech".
+- A lover of travel, active living, animals, personal finance, and all things "tech".    
+  
+ &nbsp;  
+ &nbsp;  
+ &nbsp;  
+ 
+### Contact Me
+<img style="object-fit:contain;" alt="Linkedin Logo" align="left" width="2%" height="2%" src="images/linkedin_logo.png">[Linkedin.com/in/lachlan-stewart13](www.linkedin.com/in/lachlan-stewart13)
 
+<img style="object-fit:contain;" alt="Email Logo" align="left" width="2%" height="2%" src="images/email_logo.png">[stewart_lachlan@outlook.com](stewart_lachlan@outlook.com)
 
+<img style="object-fit:contain;" alt="Goodreads Logo" align="left" width="2%" height="2%" src="images/goodreads_logo.png">Check out my shelf on [Goodreads](https://www.goodreads.com/user/show/148105500-lachlan-stewart)!
 
 3
 
