@@ -16,10 +16,10 @@
  &nbsp;  
  
 ### Contact Me
-<img style="object-fit:contain;" alt="Linkedin Logo" align="left" width="25px" height="25px" src="images/linkedin_logo.png">   [linkedin.com/in/lachlan-stewart13](www.linkedin.com/in/lachlan-stewart13)
+<img style="object-fit:contain;" alt="Linkedin Logo" align="left" width="25px" height="25px" src="images/linkedin_logo.png">   [linkedin.com/in/lachlan-stewart13](https://www.linkedin.com/in/lachlan-stewart13/)
 
-<img style="object-fit:contain;" alt="Email Logo" align="left" width="25px" height="25px" src="images/email_logo.png">   [stewart_lachlan@outlook.com](stewart_lachlan@outlook.com)
+<img style="object-fit:contain;" alt="Email Logo" align="left" width="25px" height="25px" src="images/email_logo.png">   stewart_lachlan@outlook.com
 
 <img style="object-fit:contain;" alt="Goodreads Logo" align="left" width="25px" height="25px" src="images/goodreads_logo.png">   Check out my shelf on [Goodreads](https://www.goodreads.com/user/show/148105500-lachlan-stewart)!
 
-v7
+v8
